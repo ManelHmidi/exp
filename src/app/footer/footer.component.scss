@@ -1,0 +1,44 @@
+.social-about ul li {
+
+    text-decoration: none;
+    display:inline;
+    margin-right: 30px;
+  }
+  a{
+      width: 50px !important;
+      text-decoration: none !important;
+      color: wheat;
+      font-size: 30px;
+      
+
+
+  }
+  .footer{
+      background-color: #212121;
+      color:#ccc;
+      padding: 50px 0px 50px 0px;
+      text-align: left  ;
+
+  }
+  .footer-about{
+      font-size: 15px;
+  }
+  .footer-title{
+      color: #FFCC21;
+  }
+  .footer-copyright{
+      background-color: #171717;
+      color: #ccc;
+  }
+.footermenu{
+    text-align: right;
+    color:#ccc !important;
+}
+.footermenu ul li a {
+    text-align: right;
+    color:#ccc !important;
+    font-size: 15px;
+}
+.footer-widget-area{
+    text-align: center;
+}
